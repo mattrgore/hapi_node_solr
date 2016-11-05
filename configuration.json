@@ -1,0 +1,7 @@
+{
+ "_COMMENT" : "Solr Config",
+ "core" : "category",
+ "host" : "localhost",
+ "port" : "8983",
+ "path" : "/solr"
+}
